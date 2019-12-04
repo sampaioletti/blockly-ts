@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "incremental": true,                  
+    "target": "es2015",                         
+    "module": "commonjs",                   
+    "sourceMap": true,          
+    "declaration": true,                     
+    "allowSyntheticDefaultImports": true,  
+    "esModuleInterop": true,                 
+    "experimentalDecorators": true,        
+    "emitDecoratorMetadata": true,        
+  },
+  "include": ["**/*.ts"],
+}
